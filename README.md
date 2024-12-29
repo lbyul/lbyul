@@ -13,7 +13,7 @@
   <b>🪄 Tech Stack</b>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,sass,tailwind,styledcomponents"/>
+      <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,sass,styledcomponents"/>
       <br />
       <img src="https://skillicons.dev/icons?i=git,github,notion,figma,xd,ps,ai"/>
     </a>
