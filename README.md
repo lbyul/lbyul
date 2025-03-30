@@ -6,7 +6,7 @@
   <b>📫 SNS & Email</b>
   <p>
     <a href="https://velog.io/@byul/posts" target="_blank"><img src="https://img.shields.io/badge/VELOG-20C997?style=flat-square&logo=VELOG&logoColor=white"/></a>
-    <a href="mailto:qof1337@gmail.com" target="_blank"><img src="https://img.shields.io/badge/qof1337@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+    <a href="mailto:rlaquf7737@naver.com" target="_blank"><img src="https://img.shields.io/badge/rlaquf7737@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   </p>
   <br />
   
