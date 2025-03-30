@@ -18,7 +18,3 @@
       <img src="https://skillicons.dev/icons?i=git,github,notion,figma,xd,ps,ai"/>
     </a>
   </p>
-  <br />
-                
-  <a href="https://hits.seeyoufarm.com/{{site.url "><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flbyul&count_bg=%23FFC8C8&title_bg=%238A8A8A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
