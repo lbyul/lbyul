@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi! I'm Byelo 🌟</h2>
+  <h2>Hi! I'm Byeol 🌟</h2>
   <p>안녕하세요! 프론트엔드 개발자 김별입니다.</p>
   <br />
   
